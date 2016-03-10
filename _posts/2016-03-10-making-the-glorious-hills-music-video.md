@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-10T22:28:03.860Z'
-dateModified: '2016-03-10T22:16:33.704Z'
+datePublished: '2016-03-10T22:28:36.280Z'
+dateModified: '2016-03-10T22:28:30.698Z'
 title: 'Making the "Glorious Hills" Music Video'
 author: []
 sourcePath: _posts/2016-03-10-making-the-glorious-hills-music-video.md
