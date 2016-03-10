@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We shot the music video for \"Heaven's Fire\" in Montrose at Je'Adore Boutique and had a great time. Make sure you check them out!"
-datePublished: '2016-03-10T18:56:00.070Z'
-dateModified: '2016-03-10T18:52:59.504Z'
+datePublished: '2016-03-10T19:02:33.472Z'
+dateModified: '2016-03-10T19:02:10.583Z'
 title: "Making of \"Heaven's Fire\" Music Video"
 author: []
 authors: []
