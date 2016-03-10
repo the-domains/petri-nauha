@@ -1,28 +1,40 @@
-name: PETRI NAUHA
-favicon: null
-layout_spectrum: 0.8371630108449608
-typography_spectrum: 0.49614176573231816
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+  domain: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.1909898747690022
-  lightness: 0.897674762411043
-  saturation: 0.26049008895643055
-  rhythmicContrast: 0.05228514550253749
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.2604901
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#150E0D'
+    - '#FFFFFF'
+    - '#BDB4B3'
+    - '#916F4A'
+    - '#FB064A'
+  rhythmicContrast: 0.3723404
+typography_spectrum: 0.393617
+layout_spectrum: 0.2170213
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: PETRI NAUHA
