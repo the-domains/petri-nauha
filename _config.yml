@@ -1,6 +1,6 @@
 name: PETRI NAUHA
 favicon: null
-layout_spectrum: 0.2170213
+layout_spectrum: 0.24088
 typography_spectrum: 0.393617
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#150E0D'
-    - '#FFFFFF'
-    - '#BDB4B3'
-    - '#916F4A'
-    - '#FB064A'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0.2604901
-  rhythmicContrast: 0.3723404
+    - '#dbcea4'
+    - '#fefffa'
+    - '#000000'
+    - '#c6894a'
+    - '#592815'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.75
+  rhythmicContrast: 0
 purpose: []
