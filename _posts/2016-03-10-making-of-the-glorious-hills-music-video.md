@@ -5,22 +5,22 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-10T18:57:13.716Z'
-dateModified: '2016-03-10T18:28:51.551Z'
-title: 'Making of the "Glorious Hills" Music Video'
+description: 'Making of the "Glorious Hills" Music Video'
+datePublished: '2016-03-10T19:05:30.310Z'
+dateModified: '2016-03-10T19:04:47.412Z'
+title: '"Glorious Hills"'
 author: []
+sourcePath: _posts/2016-03-10-making-of-the-glorious-hills-music-video.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-making-of-the-glorious-hills-music-video.md
-published: true
 url: making-of-the-glorious-hills-music-video/index.html
 _type: Article
 
 ---
 Making of the "Glorious Hills" Music Video
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f980b121-6234-4ba8-a2a5-213666fb3ae0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c1fd7ed20a56b007825c3a74f60d6c857cf3f82.jpg)
